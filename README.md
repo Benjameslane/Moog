@@ -2,7 +2,7 @@
 C++ program for Moog Hiring Team.
 
 Why This Project?
-This Spacecraft Control System project is a demonstration of my technical skills in C++ and my interest in combining software engineering with the intriguing challenges of space exploration. The project serves as a personal challenge to develop a dynamic, interactive application that simulates the control mechanisms of a spacecraft.
+This Spacecraft Control System project is a demonstration of my technical skills in C++ and my interest in combining software engineering with the intriguing challenges of Moog's space and defense group. The project serves as a personal challenge to develop a dynamic, interactive application that simulates the control mechanisms of a spacecraft.
 
 Key Points
 Interest in Space Exploration: This project merges my passion for space with software development, aiming to simulate aspects of spacecraft navigation and control.
